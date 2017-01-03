@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SQLServer2008"/>
+	<classpathentry kind="lib" path="F:/临时文件夹/java_pull解析器使用包kxml2_xmlpull/xmlpull_1_1_3_4c.jar"/>
+	<classpathentry kind="lib" path="F:/临时文件夹/直饮水/app_wx_pay_tool_android1d902c/【微信APP支付】服务端demo/java/jsp/app-java/WEB-INF/lib/org.json.JsonObject.jar"/>
+	<classpathentry kind="lib" path="F:/jar/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="F:/jar/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/jar/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/fluent-hc-4.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/httpclient-4.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/httpclient-cache-4.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/httpcore-4.2.4.jar"/>
+	<classpathentry kind="lib" path="F:/jar/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/httpmime-4.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/临时文件夹/java_pull解析器使用包kxml2_xmlpull/kxml2-2.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/临时文件夹/dom4j-1.6.1.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
